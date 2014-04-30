@@ -1,22 +1,7 @@
-# MultiMagic
+# MultiMagic - Magic Multipeer Connectivity
 
 [![Version](http://cocoapod-badges.herokuapp.com/v/MultiMagic/badge.png)](http://cocoadocs.org/docsets/MultiMagic)
 [![Platform](http://cocoapod-badges.herokuapp.com/p/MultiMagic/badge.png)](http://cocoadocs.org/docsets/MultiMagic)
-
-Chattr
-======
-
-Chattr - Multipeer Connectivity Chat App &amp; Framework
-
-_TO DO_
-
-- Add moar blocks
-- Split up MCManager into modular files
-- Make it look nice
-- Write tests
-
-
-# MultiMagic - Magic Multipeer Connectivity
 
 A very simple wrapper for the iOS7 Multipeer Connectivity framework. 
 
