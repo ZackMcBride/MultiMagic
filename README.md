@@ -116,7 +116,7 @@ Hopefully you get the idea. Have fun!
 
 ## Author
 
-Zack McBride, zmcbride@shopkeep.com
+Zack McBride, zackmcbride@gmail.com
 
 ## License
 
