@@ -12,7 +12,7 @@ it simply add the following line to your Podfile:~~
 
 I haven't gotten round to submitting this to Cocoapods yet, so for now you can install this by adding the following code to your Podfile:
 ```
-   pod 'MultiMagic',	:git => "git@github.com:ZackMcBride/MultiMagic.git", :tag => 'v0.0.2' 
+   pod 'MultiMagic',	:git => "git@github.com:ZackMcBride/MultiMagic.git", :tag => 'v0.0.3' 
 ```
 
 and then running ```pod install``` from your project directory.
