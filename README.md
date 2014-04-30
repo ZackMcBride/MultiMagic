@@ -7,10 +7,10 @@ A very simple wrapper for the iOS7 Multipeer Connectivity framework.
 
 ## Installation
 
-MultiMagic is available through [CocoaPods](http://cocoapods.org), to install
-it simply add the following line to your Podfile:
+~~MultiMagic is available through [CocoaPods](http://cocoapods.org), to install
+it simply add the following line to your Podfile:~~
 
-    pod "MultiMagic"
+   ~~ pod "MultiMagic"~~
 
 
 ## Usage
