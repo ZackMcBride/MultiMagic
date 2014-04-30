@@ -1,3 +1,5 @@
+@import MultipeerConnectivity;
+
 @interface MMData : NSObject
 
 @property (nonatomic, readonly) MCPeerID *peerID;

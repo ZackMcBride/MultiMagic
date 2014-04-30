@@ -1,3 +1,5 @@
+@import MultipeerConnectivity;
+
 #import "MMData.h"
 #import "MMResource.h"
 #import "MMState.h"

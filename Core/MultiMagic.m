@@ -1,3 +1,5 @@
+@import MultipeerConnectivity;
+
 #import "MultiMagic.h"
 
 @interface MultiMagic ()
